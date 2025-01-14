@@ -1,5 +1,5 @@
 {
-    "name": "houjit/db",
+    "name": "houjitsoft/db",
     "description": "A db component for houoole.",
     "type": "library",
     "license": "Apache-2.0",
@@ -13,11 +13,11 @@
     "authors": [
         {
             "name": "Amos",
-            "email": "amos@houjit.com"
+            "email": "kfpt@houjit.com"
         }
     ],
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "ext-swoole": ">=4.4"
     },
     "require-dev": {
